@@ -1,0 +1,40 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "department": "HR",
+    "profilePic": "https://www.adobe.com/acrobat/hub/media_173d13651460eb7e12c0ef4cf8410e0960a20f0ee.jpeg?width=1200&format=pjpg&optimize=medium",
+    "story": "John Doe is a dedicated HR professional with 10 years of experience.He specializes in recruitment, employee relations, and HR strategy.In this From the Founders interview, we hear from Mark Wong of Kopperfield. Hear about Mark's journey from growing up with two parents as entrepreneurs, to one particular day in California that motivated him to start Kopperfield.",
+    "topstory": "It became really clear to me that we needed to do something now. That it’s fundamentally going to impact the quality of life — that I’m going to have when I’m older, but also that of my kids. It’s the thing that drives us as a company.I grew up in Calgary, Alberta originally. My parents were entrepreneurs, so they did all kinds of things, but the most consistent thing they did throughout my childhood was property management. So from an early age, I was always interested in properties.",
+    "heading": "Architectural Engineering Wonders of the modern era for your Inspiration",
+    "timezone": "John Doe , Nov 14, 2022 10:00 IST",
+    "headlines": "M: I’m Mark Wong. I co-founded Kopperfield with my friend, Jesse Vaughan. The summary of Kopperfield is that our mission is to accelerate home electrification. We’re doing that by building a commerce platform that makes buying major home electrical appliances like EV chargers, and eventually heat pumps, induction stoves, solar panels, home batteries et cetera much easier. Right now, these upgrades are like home remodels that people have to manage. We want to turn them into something as simple as an online purchase. You can click and buy and take care of installation all at once.We started the company in late 2021, and we’re up to six people now."
+
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "department": "Engineering",
+    "profilePic": "https://imgv3.fotor.com/images/slider-image/A-clear-image-of-a-woman-wearing-red-sharpened-by-Fotors-image-sharpener.jpg",
+    "story": "Jane Smith is a talented software engineer known for her work in...",
+     "topstory": "It became really clear to me that we needed to do something now. That it’s fundamentally going to impact the quality of life — that I’m going to have when I’m older, but also that of my kids. It’s the thing that drives us as a company.I grew up in Calgary, Alberta originally. My parents were entrepreneurs, so they did all kinds of things, but the most consistent thing they did throughout my childhood was property management. So from an early age, I was always interested in properties.",
+    "heading": "Architectural Engineering Wonders of the modern era for your Inspiration",
+    "timezone": "John Doe , Nov 14, 2022 10:00 IST",
+    "headlines": "M: I’m Mark Wong. I co-founded Kopperfield with my friend, Jesse Vaughan. The summary of Kopperfield is that our mission is to accelerate home electrification. We’re doing that by building a commerce platform that makes buying major home electrical appliances like EV chargers, and eventually heat pumps, induction stoves, solar panels, home batteries et cetera much easier. Right now, these upgrades are like home remodels that people have to manage. We want to turn them into something as simple as an online purchase. You can click and buy and take care of installation all at once.We started the company in late 2021, and we’re up to six people now."
+
+    
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "department": "Sales",
+    "profilePic": "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/3.jpg",
+    "story": "Alice Johnson is a successful sales representative who has achieved...",
+     "topstory": "It became really clear to me that we needed to do something now. That it’s fundamentally going to impact the quality of life — that I’m going to have when I’m older, but also that of my kids. It’s the thing that drives us as a company.I grew up in Calgary, Alberta originally. My parents were entrepreneurs, so they did all kinds of things, but the most consistent thing they did throughout my childhood was property management. So from an early age, I was always interested in properties.",
+    "heading": "Architectural Engineering Wonders of the modern era for your Inspiration",
+    "timezone": "John Doe , Nov 14, 2022 10:00 IST",
+    "headlines": "M: I’m Mark Wong. I co-founded Kopperfield with my friend, Jesse Vaughan. The summary of Kopperfield is that our mission is to accelerate home electrification. We’re doing that by building a commerce platform that makes buying major home electrical appliances like EV chargers, and eventually heat pumps, induction stoves, solar panels, home batteries et cetera much easier. Right now, these upgrades are like home remodels that people have to manage. We want to turn them into something as simple as an online purchase. You can click and buy and take care of installation all at once.We started the company in late 2021, and we’re up to six people now."
+
+
+  }
+]
